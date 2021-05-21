@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Paulo Raitz" src=".https://avatars.githubusercontent.com/u/69216941?v=4" width="15%">
+    <img alt="Paulo Raitz" src="https://avatars.githubusercontent.com/u/69216941?v=4" width="15%">
 </h1>
 
 <p align="center">
